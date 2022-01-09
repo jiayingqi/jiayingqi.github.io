@@ -12,7 +12,7 @@ github_repo: "https://github.com/jiayingqi/jiayingqi.github.io.git" # you code r
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Yingqi Jia is studying and conducting research in University of Illinois at Urbana-Champaign (UIUC), and has obtained the master's and bachelor's degrees from Tongji University and Dalian University of Technology, respectively. His research interests are structural topology optimization, vibration mitigation, fire resistance and smart materials."
-sidebar-avatar: /img/'Photo-Yingqi Jia'.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/'Photo-Yingqi-Jia'.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
 RSS: false
