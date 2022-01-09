@@ -1,11 +1,11 @@
 # Site settings
 title: Yingqi Jia
-SEOTitle: Globien - Makes Communication Easier
+SEOTitle: Yingqi Jia - Makes Communication Easier
 header-img: img/home-bg-bluestars.jpg
 email: yingqij2@illinois.edu
 description: "Easy to learn, no more hard work to recite vocabulary."
 keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
-url: "https://globien.github.io"          # your host, for absolute URL
+url: "https://jiayingqi.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
 
